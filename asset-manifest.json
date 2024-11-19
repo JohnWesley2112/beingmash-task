@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/beingmash-task/static/css/main.60028089.css",
+    "main.js": "/beingmash-task/static/js/main.b3eae6c9.js",
+    "static/media/user3.png": "/beingmash-task/static/media/user3.48123ed9f165ae292f0c.png",
+    "static/media/user2.png": "/beingmash-task/static/media/user2.20d0720bf14ca1b7f55e.png",
+    "static/media/user1.png": "/beingmash-task/static/media/user1.8e9e11d50180ebac874d.png",
+    "static/media/contact.png": "/beingmash-task/static/media/contact.7d0bc533e36917733b21.png",
+    "static/media/gal10.jpg": "/beingmash-task/static/media/gal10.afcec9b4fe216d09b965.jpg",
+    "static/media/hero.jpg": "/beingmash-task/static/media/hero.452ad617d90ce2ee4f7e.jpg",
+    "static/media/gal4.jpg": "/beingmash-task/static/media/gal4.0a4c359f9763adcddeeb.jpg",
+    "static/media/gal1.jpg": "/beingmash-task/static/media/gal1.101bfbf501df6bf201b1.jpg",
+    "static/media/gal7.jpg": "/beingmash-task/static/media/gal7.f5a8a512f7caa37d157e.jpg",
+    "static/media/gal6.jpg": "/beingmash-task/static/media/gal6.dca742c5f98f56010fd1.jpg",
+    "static/media/gal12.jpg": "/beingmash-task/static/media/gal12.beff1cb318714480787d.jpg",
+    "static/media/gal3.jpg": "/beingmash-task/static/media/gal3.a0d44a175463ab983563.jpg",
+    "static/media/gal11.jpg": "/beingmash-task/static/media/gal11.b84907ecc207f6c2d73e.jpg",
+    "static/media/gal8.jpg": "/beingmash-task/static/media/gal8.9040a35f8a31dc72f9f8.jpg",
+    "static/media/women.png": "/beingmash-task/static/media/women.dc13734480f061b01e13.png",
+    "static/media/gal9.jpg": "/beingmash-task/static/media/gal9.37ef46c6f454c30f9ad1.jpg",
+    "static/media/gal5.jpg": "/beingmash-task/static/media/gal5.4c5a1b6556078a9f2c5d.jpg",
+    "static/media/gal2.jpg": "/beingmash-task/static/media/gal2.93791acb47c65a2baca5.jpg",
+    "static/media/logo.png": "/beingmash-task/static/media/logo.aee130b074b2b4710e80.png",
+    "index.html": "/beingmash-task/index.html",
+    "main.60028089.css.map": "/beingmash-task/static/css/main.60028089.css.map",
+    "main.b3eae6c9.js.map": "/beingmash-task/static/js/main.b3eae6c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60028089.css",
+    "static/js/main.b3eae6c9.js"
+  ]
+}
