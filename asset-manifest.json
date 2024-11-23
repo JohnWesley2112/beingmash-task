@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/beingmash-task/static/css/main.60028089.css",
+    "main.css": "/beingmash-task/static/css/main.34c2a326.css",
     "main.js": "/beingmash-task/static/js/main.b3eae6c9.js",
     "static/media/user3.png": "/beingmash-task/static/media/user3.48123ed9f165ae292f0c.png",
     "static/media/user2.png": "/beingmash-task/static/media/user2.20d0720bf14ca1b7f55e.png",
@@ -22,11 +22,11 @@
     "static/media/gal2.jpg": "/beingmash-task/static/media/gal2.93791acb47c65a2baca5.jpg",
     "static/media/logo.png": "/beingmash-task/static/media/logo.aee130b074b2b4710e80.png",
     "index.html": "/beingmash-task/index.html",
-    "main.60028089.css.map": "/beingmash-task/static/css/main.60028089.css.map",
+    "main.34c2a326.css.map": "/beingmash-task/static/css/main.34c2a326.css.map",
     "main.b3eae6c9.js.map": "/beingmash-task/static/js/main.b3eae6c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.60028089.css",
+    "static/css/main.34c2a326.css",
     "static/js/main.b3eae6c9.js"
   ]
 }
